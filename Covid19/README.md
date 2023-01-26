@@ -1,6 +1,7 @@
 # COVID-19 Basic Data Analysis using RStudio
 
-Data file: 'COVID19_line_list_data.csv'\n
+Data file: 'COVID19_line_list_data.csv'
+
 Original csv file: https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset
 
 Objective: 
